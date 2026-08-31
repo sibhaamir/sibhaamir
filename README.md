@@ -96,7 +96,7 @@ modern technologies to build better software.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=sibhaamir&show_icons=true&hide_border=true&rank_icon=github" 
     height="180"
   />
   <img 
