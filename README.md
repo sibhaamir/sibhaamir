@@ -30,3 +30,42 @@ and improving my problem-solving skills through hands-on projects.
   <li>📚 Always learning and experimenting with new technologies</li>
 </ul>
 
+<h2>🛠️ Tech Stack</h2>
+
+<h3>💻 Programming Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,javascript,typescript" />
+</p>
+
+<h3>🎨 Frontend Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
+</p>
+
+<h3>⚙️ Backend Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+<h3>🗄️ Databases & Backend Services</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
+</p>
+
+<h3>📱 Mobile Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
+</p>
+
+<h3>🔧 Tools & Development Environment</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+</p>
+
+
