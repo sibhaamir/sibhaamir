@@ -89,3 +89,18 @@ modern technologies to build better software.
   <li>🧩 Improving full-stack development skills</li>
   <li>🚀 Building and deploying real-world projects</li>
 </ul>
+
+<br>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" 
+    height="180"
+  />
+</p>
