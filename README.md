@@ -69,3 +69,23 @@ and improving my problem-solving skills through hands-on projects.
 </p>
 
 
+<br>
+
+<h2>🌱 Currently Learning</h2>
+
+<p>
+I'm continuously improving my development skills and exploring
+modern technologies to build better software.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,mongodb" />
+</p>
+
+<ul>
+  <li>⚡ Building modern web applications with Next.js</li>
+  <li>🔷 Improving my TypeScript skills</li>
+  <li>🍃 Learning MongoDB and database design</li>
+  <li>🧩 Improving full-stack development skills</li>
+  <li>🚀 Building and deploying real-world projects</li>
+</ul>
